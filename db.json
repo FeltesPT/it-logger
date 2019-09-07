@@ -8,18 +8,11 @@
       "id": 1
     },
     {
-      "message": "Stuff happened",
+      "id": 2,
+      "message": "Stuff happened again!",
       "attention": true,
       "tech": "Sara Wilson",
-      "date": "2019-09-07T20:17:32.074Z",
-      "id": 2
-    },
-    {
-      "message": "blah",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-09-07T20:17:40.241Z",
-      "id": 3
+      "date": "2019-09-07T20:46:09.976Z"
     }
   ],
   "techs": [
